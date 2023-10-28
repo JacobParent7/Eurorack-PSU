@@ -3,7 +3,7 @@ This repository has the KiCAD design files for my +12/-12V Eurorack PSU PCB. It 
 
 Schemetic Design
 
-![image](https://github.com/JacobParent7/Eurorack-PSU-/assets/105901480/908a1a7c-92a6-4f85-a2fd-167a052498aa)
+![image](https://github.com/JacobParent7/Eurorack-PSU-/assets/105901480/8efcebb9-f54d-45e0-b2d8-d591e7b11a28)
 
 Footprint Design
 
