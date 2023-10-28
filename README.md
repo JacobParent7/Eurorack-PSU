@@ -1,5 +1,5 @@
 # Eurorack-PSU
-This repository has the KiCAD design files for my +12/-12V Eurorack PSU PCB. It also includes to BOM, CPL, and compressed GERBER files to order directly from a PCB Fab.
+This repository has the KiCAD design files for my +12/-12V Eurorack PSU PCB. It also includes the BOM, CPL, and compressed GERBER files to order directly from a PCB Fab.
 
 Schemetic Design
 
